@@ -47,6 +47,7 @@ if __name__ == '__main__':
     command_executed = False
     say("Hello I am Jarvis A.I.")
     while True:
+        say("Listening...")
         print("Listening...")
         query = takeCommand()
 
